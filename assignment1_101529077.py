@@ -5,7 +5,7 @@ Assignment: #1
 
 # Step b: Create 4 variables
 
-character_name: "Galarec"
+character_name = "Galarec"
 player_current_level = 65
 player_goal_level = 70
 avg_quest_xp = 12000 # mins spent per quest

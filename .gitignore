@@ -197,3 +197,5 @@ secrets.json
 *.swo
 *.orig
 .claude/
+add_commit_push.png
+cloning.png
